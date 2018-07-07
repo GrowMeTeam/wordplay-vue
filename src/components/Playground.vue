@@ -17,11 +17,12 @@
 <script>
 
 var application = require('application');
+import { isAndroid, isIOS } from "platform";
 
   export default {
       created() {
         
-        if (application.android) {
+        if (isAndroid) {
             console.log('ANDRUSHA!')
             application.android.on(application.AndroidApplication.activityBackPressedEvent, (args) => {
                 console.log(args, 'EVENT BACK')
