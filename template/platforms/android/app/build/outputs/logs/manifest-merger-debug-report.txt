@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:design:22.2.1] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/cdea2696fa95d1dd8a70a8e703524b85/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/123d90577c1cda7b072706de547edfe1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/77201e2598e079fc05125d0ce709b0ed/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:22.2.1] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/df2c499cc1fd8b41ffc3571842f1afa7/AndroidManifest.xml:17:1-24:12
+MERGED from [:nativescript-optimized-with-inspector:] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/dc6b10e304267d12487f439e6b2f6097/AndroidManifest.xml:2:1-11:12
+MERGED from [:widgets-release:] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/aea2451313246a8bdd5a726351595c23/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:3:64-102
+		INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:3:131-158
+		INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:3:5-63
+	android:versionCode
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:3:103-130
+		INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:4:5-139
+	android:largeScreens
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:4:80-107
+	android:smallScreens
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:4:23-50
+	android:normalScreens
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:4:51-79
+	android:xlargeScreens
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:4:108-136
+uses-sdk
+ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:5:5-74
+INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:5:5-74
+INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:5:5-74
+MERGED from [com.android.support:design:22.2.1] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/cdea2696fa95d1dd8a70a8e703524b85/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.1] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/cdea2696fa95d1dd8a70a8e703524b85/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/123d90577c1cda7b072706de547edfe1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/123d90577c1cda7b072706de547edfe1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/77201e2598e079fc05125d0ce709b0ed/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/77201e2598e079fc05125d0ce709b0ed/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/df2c499cc1fd8b41ffc3571842f1afa7/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/df2c499cc1fd8b41ffc3571842f1afa7/AndroidManifest.xml:20:5-43
+MERGED from [:nativescript-optimized-with-inspector:] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/dc6b10e304267d12487f439e6b2f6097/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/dc6b10e304267d12487f439e6b2f6097/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/aea2451313246a8bdd5a726351595c23/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/aea2451313246a8bdd5a726351595c23/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:5:5-74
+INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:5:5-74
+	android:targetSdkVersion
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:5:42-71
+		INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:5:15-41
+		INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:9:5-18:19
+MERGED from [com.android.support:design:22.2.1] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/cdea2696fa95d1dd8a70a8e703524b85/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.1] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/cdea2696fa95d1dd8a70a8e703524b85/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/77201e2598e079fc05125d0ce709b0ed/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/77201e2598e079fc05125d0ce709b0ed/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/df2c499cc1fd8b41ffc3571842f1afa7/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/df2c499cc1fd8b41ffc3571842f1afa7/AndroidManifest.xml:22:5-20
+MERGED from [:widgets-release:] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/aea2451313246a8bdd5a726351595c23/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /Users/djumpen/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/aea2451313246a8bdd5a726351595c23/AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:9:122-154
+	android:icon
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:9:92-121
+	android:allowBackup
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:9:65-91
+	android:theme
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:9:155-186
+	android:name
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:9:18-64
+activity#com.tns.NativeScriptActivity
+ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:10:9-16:20
+	android:label
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:10:63-108
+	android:configChanges
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:10:109-170
+	android:theme
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:10:171-211
+	android:name
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:10:19-62
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:11:13-96
+	android:resource
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:11:59-93
+	android:name
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:11:24-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:14:27-74
+activity#com.tns.ErrorReportActivity
+ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:17:9-64
+	android:name
+		ADDED from /Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/AndroidManifest.xml:17:19-61

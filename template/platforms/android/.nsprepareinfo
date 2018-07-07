@@ -1,0 +1,12 @@
+{
+	"time": "Thu Jun 28 2018 03:11:38 GMT+0300 (Eastern European Summer Time)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": true,
+	"projectFileHash": "a4e079dcbffae0d92242a3d4e45782f31ec6508722e94d578663da06e861b1c6",
+	"changesRequireBuildTime": "Thu Jun 28 2018 03:11:38 GMT+0300 (Eastern European Summer Time)",
+	"appFilesHashes": {
+		"/Users/djumpen/projects/ns-test/template/app/package.json": "9de0568ac685f88da26e6add44a479e94204e3bc"
+	}
+}

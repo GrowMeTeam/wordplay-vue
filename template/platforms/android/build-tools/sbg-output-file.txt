@@ -1,0 +1,1 @@
+/Users/djumpen/projects/ns-test/template/platforms/android/app/src/main/java
