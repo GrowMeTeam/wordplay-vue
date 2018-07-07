@@ -7,6 +7,7 @@ import Home from '../components/Home';
 import HelloWorld from '../components/HelloWorld';
 import Counter from '../components/Counter';
 import Categories from '../components/Categories';
+import Playground from '../components/Playground';
 
 const router = new VueRouter({
   pageRouting: true,
@@ -37,6 +38,13 @@ const router = new VueRouter({
       component: Categories,
       meta: {
         title: 'Categoriess',
+      },
+    },
+    {
+      path: '/playground',
+      component: Playground,
+      meta: {
+        title: 'Playground',
       },
     },
     {path: '*', redirect: '/home'},
