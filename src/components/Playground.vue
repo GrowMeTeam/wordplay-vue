@@ -2,14 +2,7 @@
     <Page class="page">
         <ActionBar class="action-bar" title="Categories">
         </ActionBar>
-        <ScrollView orientation="vertical">
-            <AbsoluteLayout backgroundColor="#3c495e">
-                <Label text="10,10" left="10" top="10" width="100" height="100" backgroundColor="#43b883"/>
-                <Label text="120,10" left="120" top="10" width="100" height="100" backgroundColor="#43b883"/>
-                <Label text="10,120" left="10" top="120" width="100" height="100" backgroundColor="#43b883"/>
-                <Label text="120,120" left="120" top="120" width="100" height="100" backgroundColor="#43b883"/>
-            </AbsoluteLayout>
-       </ScrollView>
+        <Label :text="myOrientation" />
     </Page>
 </template>
 
@@ -18,6 +11,12 @@
 
 var application = require('application');
 import { isAndroid, isIOS } from "platform";
+
+
+
+var or = function(){
+    return 'default';
+}
 
   export default {
       created() {
@@ -31,9 +30,16 @@ import { isAndroid, isIOS } from "platform";
         }
 
         application.on(application.orientationChangedEvent, function(args){
-            console.log(args.newValue);
+            // this.$store.state.orientation = args.newValue;
+            tmp = args.newValue;
+            or = function(){
+                return tmp;
+            }
         });
+      },
 
+      computed: {
+          myOrientation: or
       }
   };
 

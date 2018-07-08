@@ -6,8 +6,8 @@ import store from './store';
 
 import './styles.scss';
 
-// Uncommment the following to see NativeScript-Vue output logs
-//Vue.config.silent = false;
+// NativeScript-Vue output logs
+Vue.config.silent = false;
 
 new Vue({
 
